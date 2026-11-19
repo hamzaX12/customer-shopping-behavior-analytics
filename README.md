@@ -197,8 +197,7 @@ The interactive Power BI dashboard (`powerbi/customer_shopping_behavior.pbix`) p
 
 ---
 
-[![Customer Behavior Dashboard Preview](powerbi/dashboard_preview.png)](powerbi/customer_shopping_behavior.pdf)
-
+![Customer Behavior Dashboard Preview](powerbi/dashboard_preview.png)
 *Click the image above or [view the full Dashboard PDF here](powerbi/customer_shopping_behavior.pdf).*
 
 ## 🚀 How to Run Locally
