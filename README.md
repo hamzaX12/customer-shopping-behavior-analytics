@@ -67,6 +67,7 @@ flowchart LR
 | `sql/queries.sql` | 10 structured MySQL queries answering key business questions using CTEs, aggregations, and window functions. |
 | `powerbi/customer_shopping_behavior.pbix` | Interactive Power BI Desktop dashboard file. |
 | `powerbi/customer_shopping_behavior.pdf` | Static PDF export of the Power BI dashboard. |
+| `powerbi/dashboard_preview.png` | High-resolution preview image of the Power BI dashboard. |
 | `presentation/Customer_Shopping_Behavior_Analytics.pdf` | Executive slide deck summarizing the full analytics lifecycle and business recommendations. |
 | `README.md` | Project documentation. |
 
